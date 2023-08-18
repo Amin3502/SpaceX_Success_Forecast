@@ -4,7 +4,7 @@ Welcome to SpaceX Success Forecast, a data science capstone project that aims to
 
 ## Table of Contents
 
-- [Story](#story)
+- [Senario](#senario)
   * [Purpose and Scope](#purpose-and-scope)
   * [Business Problem and Motivation](#business-problem-and-motivation)
   * [Objective and Data Exploration](#objective-and-data-exploration)
@@ -17,7 +17,7 @@ Welcome to SpaceX Success Forecast, a data science capstone project that aims to
 - [Dashboard](#dashboard)
 - [Complete the Machine Learning Prediction](#complete-the-machine-learning-prediction)
 
-## Story
+## Senario
 
 Embark on a visionary data-driven odyssey with SpaceXSuccessForecast, where the frontiers of space exploration merge seamlessly with the precision of predictive analytics. The core of this capstone journey is the prediction of Falcon 9's first stage landing success—an endeavor that unlocks profound insights into the realm of space travel economics. SpaceX, renowned for its groundbreaking rocket launches, offers the Falcon 9 at an astonishing cost of 62 million dollars, a stark contrast to the staggering 165 million dollars demanded by other providers, thanks to SpaceX's pioneering practice of reusing the initial stage. Therefore, if we can determine if the first stage will land, we can definitively ascertain the launch cost. Such information can be used if an alternate company wants to bid against SpaceX for a rocket launch.
 
