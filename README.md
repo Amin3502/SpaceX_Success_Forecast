@@ -66,18 +66,6 @@ In this chapter, we curate a visual symposium—a dashboard that distills our jo
 
 As our voyage nears its zenith, we enter the realm of predictive mastery. Employing a machine learning pipeline, we summon the power of Support Vector Machines, Classification Trees, and Logistic Regression. Guided by the North Star of model evaluation, we scrutinize hyperparameters, split data into training and testing sets, and fine-tune the algorithms that will predict the probability of a successful Falcon 9 first stage landing. This culmination blends data science and spacefaring, offering a glimpse into the predictive prowess that can shape the economics of rocket launches.
 
-<!-- The rest of the sections should be included as per your project structure -->
-
-## Installation
-
-To get started with SpaceXSuccessForecast, follow these steps:
-
-1. Clone this repository: `git clone https://github.com/yourusername/SpaceXSuccessForecast.git`
-2. Navigate to the project directory: `cd SpaceXSuccessForecast`
-3. Create a virtual environment (optional but recommended): `python -m venv venv`
-4. Activate the virtual environment: `source venv/bin/activate` (on Windows: `venv\Scripts\activate`)
-5. Install the required packages: `pip install -r requirements.txt`
-6. Launch the project: `jupyter notebook`
 
 ## Contributor
 
