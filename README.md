@@ -67,7 +67,7 @@ In this chapter, we curate a visual symposium—a dashboard that distills our jo
 As our voyage nears its zenith, we enter the realm of predictive mastery. Employing a machine learning pipeline, we summon the power of Support Vector Machines, Classification Trees, and Logistic Regression. Guided by the North Star of model evaluation, we scrutinize hyperparameters, split data into training and testing sets, and fine-tune the algorithms that will predict the probability of a successful Falcon 9 first stage landing. This culmination blends data science and spacefaring, offering a glimpse into the predictive prowess that can shape the economics of rocket launches.
 
 
-## Contributor
+## Author
 
 - Amin Hassanzadeh
 
